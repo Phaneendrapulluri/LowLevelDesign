@@ -1,6 +1,5 @@
 package IntroToThreads;
 
-import java.sql.SQLOutput;
 
 public class NPrinter implements Runnable{
 
