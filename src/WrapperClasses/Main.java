@@ -16,6 +16,9 @@ public class Main {
         Integer a=Integer.valueOf(s);//returns Integer object
         int b=Integer.parseInt(s);   //returns primitive int type
 
+        //While adding data to any collection(like arraylist/linkedlist etc..)
+        //by default auto boxing happens cuz collection only support for
+        // Wrapper classes objects storage
         //System.out.println("Hi There!");
     }
 }
